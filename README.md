@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**KevinSolis/KevinSolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kevin 👋
 
-Here are some ideas to get you started:
+* I am Software Developer from Guayaquil, Ecuador.
+* I have two years implementing solutions using C#, HTML, and JavaScript integrated with Oracle PL/SQL.
+* I have worked on application integration with VTEX, helping to improve e-commerce.
+* I consider myself a responsible, observant, and collaborative person. I enjoy contributing ideas and working as a team to implement technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+* Programming languages:
+
+  * C# (Front-end & Back-end)
+  * HTML (Front-end & Back-end)
+  * JavaScript
+  * jQuery
+  * Python
+
+* Frameworks and technologies:
+  * .NET Framework, .NET Core, ASP.NET
+  * Blazor Server
+
+* Database management:
+  * Oracle PL/SQL
+  * SQL
+  * MySQL
+
+* API Development and Implementation
+
+* Knowledge of VTEX CMS:
+  * API integration with web and desktop applications
+  * Management of general settings
+  * Product catalog administration
+  * Front-end and back-end handling of the website
+
+* User Support – Helpdesk
+
+* Knowledge of GIT
+
+* English language proficiency (Intermediate level)
+
+## Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinSolis)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSolis&layout=compact)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-andr%C3%A9s-sol%C3%ADs-silva-542550225/)
