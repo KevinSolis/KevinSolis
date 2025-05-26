@@ -1,5 +1,6 @@
 
-# Hey, I'm Kevin 👋
+# Hey, I'm Kevin Solis 👋
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-andr%C3%A9s-sol%C3%ADs-silva-542550225/)
 
 * I am Software Developer from Guayaquil, Ecuador.
 * I have two years implementing solutions using C#, HTML, and JavaScript integrated with Oracle PL/SQL.
@@ -43,5 +44,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSolis&layout=compact)
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-andr%C3%A9s-sol%C3%ADs-silva-542550225/)
