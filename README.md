@@ -22,7 +22,7 @@
 
 * Database management:
   * Oracle PL/SQL
-  * SQL
+  * SQL Server
   * MySQL
 
 * API Development and Implementation
