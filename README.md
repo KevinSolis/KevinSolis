@@ -40,7 +40,7 @@
 * English language proficiency (Intermediate level)
 
 ## Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinSolis)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinSolis)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSolis&layout=compact)
 
